@@ -1,0 +1,52 @@
+baseURL = 'https://www.naveenvenkatesan.com/'
+languageCode = 'en-us'
+title = 'Naveen Venkatesan'
+theme = 'PaperMod'
+
+[params.label]
+text = "Naveen Venkatesan"
+icon = "img/header.png"
+iconHeight = 35
+
+[params.profileMode]
+enabled = true
+title = "Hi, I'm Naveen \U0001F44B\U0001F3FE"
+subtitle = "ML Software Engineer @ Rivian"
+imageUrl = "img/main_pic.jpg"
+imageWidth = 240
+imageHeight = 240
+
+[params.homeInfo]
+Title = "Hi, I'm Naveen \U0001F44B\U0001F3FE"
+Content = "Machine learning software engineer @ Rivian"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/naveenvenkatesan/"
+
+[[params.socialIcons]]
+name = "medium"
+url = "https://medium.com/@naveenvenkatesan"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/venkatesannaveen"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:naveen.venkatesan@gmail.com"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"

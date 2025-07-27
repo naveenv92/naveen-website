@@ -1,0 +1,7 @@
+/public/
+/resources/
+.hugo_build.lock
+
+# Editor-specific files
+.vscode/
+.DS_Store
